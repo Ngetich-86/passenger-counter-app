@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding-top: 150px;
+    text-align: center;
+    background: rgba(3, 52, 71, 0.966);
+}
+h1{
+    font-size: 45px;
+    font-weight: 700;
+    color: white;
+}
+h2{
+    font-size: 50px;
+    color: white;
+}
+button{
+    margin-bottom: 10px;
+    font-size: 25px;
+    padding: 5px;
+    font-weight: bold;
+    color: white;
+    background: grey;
+    border: rgba(255, 255, 255, 0.651) 1px solid;
+}
+p{
+    color: white;
+    font-weight: 900px;
+    font-size: 25px;
+}
